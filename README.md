@@ -25,16 +25,16 @@ I'm currently building my portfolio and actively looking for **internships, free
 ## 🚀 Goals (2025)
 
 - [x] Master Python + SQL for data  
-- [ ] Build 5 portfolio projects  
-- [ ] Learn Power BI / Tableau  
-- [ ] Contribute to an open-source data project  
-- [ ] Land my first freelance or internship gig  
+- [x] Build 5 portfolio projects  
+- [x] Learn Power BI / Tableau  
+- [x] Contribute to an open-source data project  
+- [x] Land my first freelance or internship gig  
 
 ---
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [Your LinkedIn URL]
-- **Email**: [yourname@email.com]
+- **LinkedIn**: [https://www.linkedin.com/in/charles-kyalo-mulinga/]
+- **Email**: [mulingacharles@gmail.com]
 - **Kaggle**: [Kaggle profile link]
-- **Portfolio (if any)**: [Link to portfolio site or Notion page]
+- **Portfolio**: [Under Construction]
