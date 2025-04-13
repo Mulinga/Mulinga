@@ -15,7 +15,7 @@ I'm currently building my portfolio and actively looking for **internships, free
 
 | Project | Description | Tools Used | Link |
 |--------|-------------|------------|------|
-| 🧼 **Customer Churn Prediction** | Built an end-to-end pipeline to predict customer churn using logistic regression, including data cleaning, EDA, and model evaluation. | Python, pandas, scikit-learn, matplotlib | [GitHub Repo](#) |
+| 🧼 **Heart Disease Prediction** | Built an end-to-end model to predict heart disease using logistic regression, involving more than 100,000 patient records from the UCI repository. | Python, pandas, scikit-learn, matplotlib | [GitHub Repo](#) |
 | 📈 **Sales Forecasting (Time Series)** | Forecasted monthly sales using ARIMA and LSTM. Compared models and visualized results. | Python, statsmodels, TensorFlow, matplotlib | [GitHub Repo](#) |
 | 🧠 **Sentiment Analysis on Tweets** | Classified tweets as positive/negative using NLP techniques and TF-IDF. | Python, sklearn, NLTK, pandas | [GitHub Repo](#) |
 | 📊 **Excel Dashboards (Sales KPIs)** | Created interactive dashboards for sales and inventory KPIs. | Excel, Power Query, Pivot Tables | [Link or Screenshot](#) |
