@@ -3,7 +3,7 @@
 Hi! I'm Charles — a data science enthusiast pivoting into the field with hands-on experience in:
 
 - 🧮 **Data Analysis**: Excel, SQL, pandas, matplotlib  
-- 🤖 **Machine Learning**: scikit-learn, TensorFlow, neural networks  
+- 🤖 **Machine Learning**: scikit-learn, TensorFlow, Hugging Face  
 - 📊 **Visualization & Reporting**: Jupyter Notebooks, Python plots  
 - 🧰 **Tools**: GitHub, Google Colab, Notion, VS Code  
 
