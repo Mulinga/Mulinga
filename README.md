@@ -1,4 +1,4 @@
-## 🧠 Charles | Aspiring Data Engineer | SQL • Python • ML
+## 🧠 Charles | Data Scientist | SQL • Python • ML
 
 Hi! I'm Charles — a data science enthusiast pivoting into the field with hands-on experience in:
 
