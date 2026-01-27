@@ -15,6 +15,7 @@ I'm currently building my portfolio and actively looking for **internships, free
 
 | Project | Description | Tools Used | Link |
 |--------|-------------|------------|------|
+| 🚦 **Barbados Traffic Analysis Challenge** | End-to-end traffic prediction and root cause analysis using CatBoost on large-scale traffic camera data. | Python, pandas, CatBoost, scikit-learn | [Repo](https://github.com/Mulinga/Barbados-Traffic-Analysis) |
 | 🧼 **Heart Disease Prediction (Classification)** | Built an end-to-end model to predict heart disease using logistic regression, involving more than 100,000 patient records from the UCI repository. | Python, pandas, scikit-learn, matplotlib | [Heart Disease Classification Repo](https://github.com/Mulinga/Heart-Disease-Classification) |
 | 📈 **Bull-Dozer Price Prediction (Time Series)** | Forecasted potential bulldozer prices using linear Regression and the Random Forest Regressor. Compared models and visualized results. | Python, statsmodels, TensorFlow, matplotlib |[Bull-Dozer Price Prediction Repo](https://github.com/Mulinga/Bulldozer-Price-Prediction) |
 | 🧠 **Dog Breed Prediction (TensorFlow)** | Submitted my solution to the Kaggle Competitions on Dog Breed Prediction Models using Tensorflow 2.0, Keras and MobileNet V2 Classification Model | Python, Google Colabs, Tensorflow, Keras, Numpy, Pandas, Matplotlib | [Kaggle Submission](https://www.kaggle.com/competitions/dog-breed-identification-data) |
