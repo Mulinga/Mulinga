@@ -22,13 +22,13 @@ I'm currently building my portfolio and actively looking for **internships, free
 
 ---
 
-## 🚀 Goals (2025)
+## 🚀 2026 Machine Learning Goals
 
-- [x] Master Python + SQL for data  
-- [ ] Build 5 portfolio projects  
-- [ ] Learn Power BI / Tableau  
-- [ ] Contribute to an open-source data project  
-- [ ] Land my first freelance or internship gig  
+- [ ] Dominate Zindi.Africa competitions  
+- [ ] Complete 10 Kaggle competitions from baseline to leaderboard  
+- [ ] Achieve deep expertise in NLP & LLMs  
+- [ ] Build custom ML models solving real-world problems  
+- [ ] Publish 100 Machine Learning repositories documenting growth and innovation  
 
 ---
 
